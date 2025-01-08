@@ -96,7 +96,7 @@
 
         /* Projects Section */
         .projects .project {
-            background: white;
+            background: red;
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
             margin-bottom: 20px;
             padding: 20px;
