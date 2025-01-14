@@ -182,10 +182,10 @@
         <p>Hello! I'm Lakshmi, a DevOps Engineer passionate about optimizing workflows and delivering scalable, automated solutions. I specialize in tools like Jenkins, Docker, Kubernetes, Terraform, and cloud platforms such as AWS and Azure.</p>
     </section>
 
-    <section id="skills" class="skills">
+    <section id="skills" class="skills" style="color:yellow!important">
         <h2>Skills</h2>
         <ul>
-            <li>CI/CD - Jenkins, GitHub Actions</li>
+            <li>CI/CD - Jenkins, GitHub Actions and more</li>
             <li>Containerization - Docker</li>
             <li>Orchestration - Kubernetes</li>
             <li>Infrastructure as Code - Terraform</li>
